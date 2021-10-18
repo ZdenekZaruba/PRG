@@ -1,2 +1,3 @@
 # PRG
-School
+
+Repozitář pro předmět programování.
