@@ -18,7 +18,6 @@ void gene(int a1, int d, int n)
 
 int main()
 {
-    //printf("%d\n", an(5, 2, 4));
     gene(7, 7, 10);
     return 0;
 }
