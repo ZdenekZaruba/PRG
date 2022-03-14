@@ -6,4 +6,4 @@ Mazlicek.php je nadřazený souborům kocka.php, pes.php, ryba.php volá jejich 
 
 ## kocka.php, pes.php, ryba.php
 
-Pomocí funkce <ul>mluv()</ul> voláme jejich zvířecí zvuky a pomocí funkce hraj() voláme příkazy jim určené.
+Pomocí funkce <b>mluv()</b> voláme jejich zvířecí zvuky a pomocí funkce <b>hraj()</b> voláme příkazy jim určené.
